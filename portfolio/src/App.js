@@ -7,6 +7,7 @@ import Resume from './components/resume/Resume';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import FooterBottom from './components/footer/FooterBottom';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
 
@@ -62,6 +63,7 @@ function App() {
         <Footer />
         <FooterBottom />
       </div>
+      <ScrollToTop />
     </div>
   );
 }
