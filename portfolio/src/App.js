@@ -1,6 +1,8 @@
 import React from 'react'
 import Navbar from './components/navbar/Navbar';
 import Home from './components/home/Home';
+import Features from './components/features/Features';
+import Projects from './components/projects/Projects';
 
 function App() {
 
@@ -9,6 +11,8 @@ function App() {
       <div className='lgl:w-[95%] mx-auto'>
         <Navbar />
         <Home />
+        <Features />
+        <Projects />
       </div>
     </div>
   );
