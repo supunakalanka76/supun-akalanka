@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/supun-akalanka/static/css/main.2b78a884.css",
+    "main.js": "/supun-akalanka/static/js/main.93c4d21d.js",
+    "static/js/453.1407b060.chunk.js": "/supun-akalanka/static/js/453.1407b060.chunk.js",
+    "static/media/profile.jpg": "/supun-akalanka/static/media/profile.67c18482ba17db02cd59.jpg",
+    "static/media/cv.pdf": "/supun-akalanka/static/media/cv.a64c466e9d8b41bec441.pdf",
+    "static/media/EMS.png": "/supun-akalanka/static/media/EMS.5ab7c4e850363445a97f.png",
+    "static/media/profile.png": "/supun-akalanka/static/media/profile.98474cf5bb60a65a9c0c.png",
+    "static/media/profile2.png": "/supun-akalanka/static/media/profile2.caa3d5e2872e84d77cf2.png",
+    "static/media/event.png": "/supun-akalanka/static/media/event.bf69733036cb75909a33.png",
+    "static/media/POS.jpg": "/supun-akalanka/static/media/POS.a822dbd80572904af797.jpg",
+    "static/media/contact.jpg": "/supun-akalanka/static/media/contact.3d97cb6555f53b7c03f6.jpg",
+    "static/media/PMS.png": "/supun-akalanka/static/media/PMS.a4afcdfad6b4e862f5b2.png",
+    "index.html": "/supun-akalanka/index.html",
+    "main.2b78a884.css.map": "/supun-akalanka/static/css/main.2b78a884.css.map",
+    "main.93c4d21d.js.map": "/supun-akalanka/static/js/main.93c4d21d.js.map",
+    "453.1407b060.chunk.js.map": "/supun-akalanka/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b78a884.css",
+    "static/js/main.93c4d21d.js"
+  ]
+}
