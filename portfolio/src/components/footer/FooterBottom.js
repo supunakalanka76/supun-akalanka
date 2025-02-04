@@ -7,7 +7,7 @@ function FooterBottom() {
     <div className='w-full py-10 flex flex-col'>
         <div>
             <p className='text-center text-white text-base'>
-            © 2025 All rights reserved. | Designed by <a href='https://www.linkedin.com/in/supun-akalanka-420203294/' target='_blank' rel='noopener noreferrer' className='text-white'>Supun Akalanka.</a>
+            © 2025 All rights reserved. | <span className="text-red-500">❤️</span> Supun Akalanka.
             </p>
         </div>
         <div className='flex items-center justify-center gap-4 pt-4'>

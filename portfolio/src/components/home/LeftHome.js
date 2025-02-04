@@ -8,7 +8,7 @@ import {cv} from '../../assets/index.js'
 function LeftHome() {
 
     const [text] = useTypewriter({
-        words: ['UI Designer.', 'Software Developer.', 'Professional Coder.', 'Web Developer and Designer.'],
+        words: ['UI Designer.', 'Web Designer.', 'Software Developer.', 'Professional Coder.', 'Web Developer.'],
         loop: true,
         typeSpeed: 80,
         deleteSpeed: 50,
@@ -21,12 +21,12 @@ function LeftHome() {
 
           <h4 className='text-lg font-normal'>Welcome to My Creative Space!</h4>
           
-          <h1 className='text-6xl font-bold text-white'>
+          <h1 className='lgl:text-6xl sm:text-5xl font-bold text-white'>
             Hi, I'm {' '}
             <span className='text-designColor capitalize'> Supun Akalanka</span>
           </h1>
 
-          <h2 className='text-4xl font-bold text-white'>
+          <h2 className='lgl:text-4xl sm:text-2xl font-bold text-white'>
             a <span>{text}</span>
             <Cursor 
             cursorBlinking='false'
@@ -46,7 +46,7 @@ function LeftHome() {
                 href={cv} 
                 download = "Supun Akalanka CV.pdf"
                 className='text-designColor hover:text-blue-600 duration-300'>
-                  <button className='w-[35%] h-12 rounded-3xl bg-gray-200 text-sm font-bold text-designColor tracking-wide uppercase hover:text-black duration-300 hover:bg-designColor'>Download CV</button>
+                  <button className='lgl:w-[35%] sm:w-[70%] h-12 rounded-3xl bg-gray-200 text-sm font-bold text-designColor tracking-wide uppercase hover:text-black duration-300 hover:bg-designColor'>Download CV</button>
                 </a>
               </div>
             </div>

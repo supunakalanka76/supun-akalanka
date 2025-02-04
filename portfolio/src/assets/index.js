@@ -1,5 +1,4 @@
 import profile from './images/profile.jpg';
-import profile1 from './images/profile.png';
 import profile2 from './images/profile2.png';
 import logo from './images/logo.png';
 import pos from './images/projects/POS.jpg';
@@ -8,11 +7,12 @@ import pms from './images/projects/PMS.png';
 import event from './images/projects/event.png';
 import contact from './images/contact/contact.jpg';
 import cv from './pdfs/cv.pdf';
+import portfolio from './images/projects/portfolio.png';
+import todo from './images/projects/todo.png';
 
 export {
     profile,
     logo,
-    profile1,
     profile2,
     pos,
     pms,
@@ -20,4 +20,6 @@ export {
     event,
     contact,
     cv,
+    portfolio,
+    todo,
  };
