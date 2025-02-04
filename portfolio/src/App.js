@@ -3,6 +3,7 @@ import Navbar from './components/navbar/Navbar';
 import Home from './components/home/Home';
 import Features from './components/features/Features';
 import Projects from './components/projects/Projects';
+import Resume from './components/resume/Resume';
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
         <Home />
         <Features />
         <Projects />
+        <Resume />
       </div>
     </div>
   );
