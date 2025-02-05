@@ -1,7 +1,7 @@
 import React from 'react'
 import { useTypewriter, Cursor } from 'react-simple-typewriter'
 import {FaLinkedin, FaGithub} from 'react-icons/fa'
-import {FaReact, FaHtml5, FaCss3, FaFigma,} from 'react-icons/fa'
+import {FaReact, FaHtml5, FaCss3, FaFigma, FaFacebook} from 'react-icons/fa'
 import { RiTailwindCssFill } from 'react-icons/ri'
 import {cv} from '../../assets/index.js'
 
@@ -60,7 +60,7 @@ function LeftHome() {
                   <p>Name: <span>Supun Akalanka</span></p>
                   <p>Birth Day: <span>29<sup>th</sup> March 2003</span></p>
                   <p>Phone: <span>(+94) 785 766 794</span></p>
-                  <p>Address: <span>Kurunegala</span></p>
+                  <p>Address: <span>Kurunegala, Sri Lanka</span></p>
                 </div>
               </div>
 
@@ -82,13 +82,18 @@ function LeftHome() {
           </h2>
           <div className='flex gap-4'>
             <span className='homeIcon'>
-              <a href='https://www.linkedin.com/in/supun-akalanka-420203294/' target='_blank' rel='noopener noreferrer'>
-                  <FaLinkedin />
+              <a href='https://www.facebook.com/supunakalanka76' target='_blank' rel='noopener noreferrer'>
+                <FaFacebook />
+              </a>
+            </span>
+            <span className='homeIcon'>
+              <a href='https://www.linkedin.com/in/supunakalanka76/' target='_blank' rel='noopener noreferrer'>
+                <FaLinkedin />
               </a>
             </span>
             <span className='homeIcon'>
               <a href='https://github.com/supunakalanka76' target='_blank' rel='noopener noreferrer'>
-                  <FaGithub />
+                <FaGithub />
               </a>
             </span>
           </div>

@@ -7,7 +7,7 @@ function FooterBottom() {
     <div className='w-full py-10 flex flex-col'>
         <div>
             <p className='text-center text-white text-base'>
-            © 2025 All rights reserved. | <span className="text-red-500">❤️</span> Supun Akalanka.
+            © 2025 All rights reserved. | <span className='text-red-600'>❤️</span> Supun Akalanka.
             </p>
         </div>
         <div className='flex items-center justify-center gap-4 pt-4'>
@@ -22,7 +22,7 @@ function FooterBottom() {
                     </a>
                 </span>
                 <span className='footerIcon'>
-                    <a href='https://www.linkedin.com/in/supun-akalanka-420203294/' target='_blank' rel='noopener noreferrer'>
+                    <a href='https://www.linkedin.com/in/supunakalanka76/' target='_blank' rel='noopener noreferrer'>
                         <FaLinkedin />
                     </a>
                 </span>

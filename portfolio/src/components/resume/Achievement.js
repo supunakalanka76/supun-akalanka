@@ -18,7 +18,7 @@ function Achievement() {
 
             <ResumeCard 
                 title='Certificate of Participation - Innovative with Ballerina Coding Challenge'
-                subTitle='IEEE Student Branch of UOM collaborate with WSO2. (2024 Sep - 2024 Nov)'
+                subTitle='IEEE Student Branch of University Of Moratuwa collaborate with WSO2. (2024 Sep - 2024 Nov)'
             />
 
             <ResumeCard 

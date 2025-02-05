@@ -16,28 +16,28 @@ function Education() {
 
         <div className='mt-6 lgl:mt-14 w-full lgl:h-[1000px] border-l-[6px] border-bgBlack border-opacity-30 flex flex-col gap-10'>
             <ResumeCard 
-                title='BEng (Hons) in Software Engineering (TOP UP)'
-                subTitle='London Metropolitan University - UK (2025 Feb - Present) | ESOFT Metro Campus'
+                title='BEng (Hons.) in Software Engineering (TOP UP)'
+                subTitle='London Metropolitan University - UK | ESOFT Metro Campus (2025 Feb - Present) '
             />
 
             <ResumeCard 
                 title='BTEC Level 5 HND in Computing Software Engineering'
-                subTitle='Pearson University - UK (2023 Aug - 2025 Jan) | ESOFT Metro Campus'
+                subTitle='Pearson University - UK | ESOFT Metro Campus (2023 Aug - 2025 Jan) '
             />
 
             <ResumeCard 
                 title='Advanced Certificate in Spoken English'
-                subTitle='Britishway English Academy - Kurunegala (2023 Mar - 2023 May)'
+                subTitle='Britishway English Academy - Kurunegala (2023 Mar - 2023 May) '
             />
 
             <ResumeCard 
                 title='General Certificate of Education (Advanced Level)'
-                subTitle='S.W.R.D. Bandaranayake College, Panduwasnuwara (2019 - 2023 Feb)'
+                subTitle='S.W.R.D. Bandaranayake College, Panduwasnuwara (2019 - 2023 Feb) '
             />
 
             <ResumeCard 
                 title='General Certificate of Education (Ordinary Level)'
-                subTitle='S.W.R.D. Bandaranayake College, Panduwasnuwara (2017 - 2019)'
+                subTitle='S.W.R.D. Bandaranayake College, Panduwasnuwara (2017 - 2019) '
             />
         </div>
         </div>
