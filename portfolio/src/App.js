@@ -52,19 +52,19 @@ function App() {
   // }, []);
 
   return (
-    <div className='w-full h-auto bg-bodyColor text-lightText'>
-      <div className='lgl:w-[95%] mx-auto'>
-        <Navbar />
-        <Home />
-        <Features />
-        <Projects />
-        <Resume />
-        <Contact />
-        <Footer />
-        <FooterBottom />
+      <div className='w-full h-auto bg-bodyColor text-lightText'>
+        <div className='lgl:w-[95%] mx-auto'>
+          <Navbar />
+          <Home />
+          <Features />
+          <Projects />
+          <Resume />
+          <Contact />
+          <Footer />
+          <FooterBottom />
+        </div>
+        <ScrollToTop />
       </div>
-      <ScrollToTop />
-    </div>
   );
 }
 

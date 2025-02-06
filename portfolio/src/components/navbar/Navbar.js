@@ -46,6 +46,7 @@ function Navbar() {
                     </li>
                 ))
             }
+
         </ul>
         <span onClick={() => setShowMenu(!showMenu)} className='text-3xl mdl:hidden w-20 h-20 inline-flex items-center justify-center text-designColor cursor-pointer -mr-10'>
           <FiMenu />
