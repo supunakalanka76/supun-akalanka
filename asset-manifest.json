@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/supun-akalanka/static/css/main.10c42659.css",
-    "main.js": "/supun-akalanka/static/js/main.4a5fa538.js",
+    "main.css": "/supun-akalanka/static/css/main.c180f081.css",
+    "main.js": "/supun-akalanka/static/js/main.c2fad0bb.js",
     "static/js/453.1407b060.chunk.js": "/supun-akalanka/static/js/453.1407b060.chunk.js",
     "static/media/portfolio.png": "/supun-akalanka/static/media/portfolio.1062d882e9c6cdc16088.png",
     "static/media/profile.jpg": "/supun-akalanka/static/media/profile.e936d48586718514b1bf.jpg",
@@ -14,12 +14,12 @@
     "static/media/contact.jpg": "/supun-akalanka/static/media/contact.3d97cb6555f53b7c03f6.jpg",
     "static/media/PMS.png": "/supun-akalanka/static/media/PMS.a4afcdfad6b4e862f5b2.png",
     "index.html": "/supun-akalanka/index.html",
-    "main.10c42659.css.map": "/supun-akalanka/static/css/main.10c42659.css.map",
-    "main.4a5fa538.js.map": "/supun-akalanka/static/js/main.4a5fa538.js.map",
+    "main.c180f081.css.map": "/supun-akalanka/static/css/main.c180f081.css.map",
+    "main.c2fad0bb.js.map": "/supun-akalanka/static/js/main.c2fad0bb.js.map",
     "453.1407b060.chunk.js.map": "/supun-akalanka/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10c42659.css",
-    "static/js/main.4a5fa538.js"
+    "static/css/main.c180f081.css",
+    "static/js/main.c2fad0bb.js"
   ]
 }
