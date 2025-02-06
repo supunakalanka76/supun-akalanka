@@ -25,12 +25,10 @@ const ScrollToTop = () => {
     <>
       {isVisible && (
         <Link
-          to="home"
-          smooth={true}
-          duration={500}
-          className='fixed lgl:bottom-10 sm:bottom-2 right-10 cursor-pointer bg-designColor p-3 rounded-full shadow-lg hover:bg-blue-800 transition-all animate-bounce'
+          to='home' smooth={true} offset={-70} duration={500}
+          className='fixed bottom-10 sm:bottom-2 right-10 cursor-pointer bg-designColor p-3 rounded-full shadow-lg hover:bg-blue-800 transition-all animate-bounce'
         >
-          <ArrowUpCircle size={20} className='text-white' strokeWidth={3} />
+          <ArrowUpCircle size={25} className='text-white' strokeWidth={3} />
         </Link>
       )}
     </>

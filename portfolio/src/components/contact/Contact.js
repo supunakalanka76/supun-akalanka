@@ -7,7 +7,7 @@ import ContactRight from './ContactRight'
 function Contact() {
 
   return (
-    <section id='contact' className='w-full pl-10 pr-10 py-20 border-b-[1px] border-b-designColor mb-10'>
+    <section id='contact' className='w-full pl-10 pr-10 py-24 border-b-[1px] border-b-designColor mb-10'>
         <div className='flex justify-center items-center text-center'>
             <Title title='contact' des='Contact With Me'/>
         </div>

@@ -41,7 +41,7 @@ function LeftHome() {
             </p>
 
             <div>
-              <div className='pt-8 sm:pt-4'>
+              <div className='pt-10 sm:pt-4'>
                 <a 
                 href='https://drive.google.com/file/d/17VI0KKIWnMBVOwDZeruK-bdum9wO0RB2/view?usp=sharing' 
                 target='_blank'
@@ -62,15 +62,15 @@ function LeftHome() {
                   <p>Birth Day: <span>29<sup>th</sup> March 2003</span></p>
                   <p>Phone: <span>(+94) 785 766 794</span></p>
                   <p>Address: <span>Kurunegala, Sri Lanka</span></p>
+                  <p>Freelance: <span>Available</span></p>
                 </div>
               </div>
 
               <div>
-                <div className='flex flex-col pt-14 gap-4'>
+                <div className='flex flex-col pt-14 gap-4 lgl:mt-6'>
                   <p>Email: <span>supunakalanka76@gmail.com</span></p>
                   <p>Degree: <span>BEng (Hons) in Software Engineering (TOP UP)</span></p>
                   <p>Experience: <span>2 Years</span></p>
-                  <p>Freelance: <span>Available</span></p>
                 </div>
               </div>
             </div>
