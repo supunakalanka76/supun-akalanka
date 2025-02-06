@@ -3,7 +3,7 @@ import { useTypewriter, Cursor } from 'react-simple-typewriter'
 import {FaLinkedin, FaGithub} from 'react-icons/fa'
 import {FaReact, FaHtml5, FaCss3, FaFigma, FaFacebook} from 'react-icons/fa'
 import { RiTailwindCssFill } from 'react-icons/ri'
-import {cv} from '../../assets/index.js'
+// import {cv} from '../../assets/index.js'
 
 function LeftHome() {
 
@@ -41,12 +41,13 @@ function LeftHome() {
             </p>
 
             <div>
-              <div className='pt-8'>
+              <div className='pt-8 sm:pt-4'>
                 <a 
-                href={cv} 
-                download = "Supun Akalanka CV.pdf"
+                href='https://drive.google.com/file/d/17VI0KKIWnMBVOwDZeruK-bdum9wO0RB2/view?usp=sharing' 
+                target='_blank'
+                rel='noopener noreferrer'
                 className='text-designColor hover:text-blue-600 duration-300'>
-                  <button className='lgl:w-[35%] sm:w-[70%] h-12 rounded-3xl bg-gray-200 text-sm font-bold text-designColor tracking-wide uppercase hover:text-black duration-300 hover:bg-designColor'>Download CV</button>
+                  <button className='lgl:w-[35%] sm:w-[70%] h-12 rounded-3xl bg-gray-200 text-sm font-bold text-designColor tracking-wide uppercase hover:text-black duration-300 hover:bg-designColor'>Resume <span className='text-sm font-bold'> &gt;</span></button>
                 </a>
               </div>
             </div>
@@ -75,7 +76,7 @@ function LeftHome() {
             </div>
         </div>
 
-        <div className='flex flex-col xl:flex-row gap-6 lgl:gap-8 justify-between'>
+        <div className='flex flex-col xl:flex-row gap-6 lgl:gap-8 justify-between pb-6'>
         <div>
           <h2 className='text-base uppercase font-poppins text-designColor mb-4'>
             Connect with Me On:
