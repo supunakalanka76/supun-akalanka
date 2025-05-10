@@ -43,7 +43,7 @@ function LeftHome() {
             <div>
               <div className='pt-10 sm:pt-4'>
                 <a 
-                href='https://drive.google.com/file/d/1LrYH18_hHlSAOfebJ7UckIqws5E0Xj2B/view?usp=sharing' 
+                href='https://drive.google.com/file/d/12bqn5bshJDcDZUdqlnIbt65Q9w73_RoC/view?usp=sharing' 
                 target='_blank'
                 rel='noopener noreferrer'
                 className='text-designColor hover:text-blue-600 duration-300'>
