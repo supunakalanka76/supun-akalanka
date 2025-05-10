@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/supun-akalanka/static/css/main.dff182c0.css",
-    "main.js": "/supun-akalanka/static/js/main.623a2908.js",
+    "main.js": "/supun-akalanka/static/js/main.a841a7bc.js",
     "static/js/453.1407b060.chunk.js": "/supun-akalanka/static/js/453.1407b060.chunk.js",
     "static/media/portfolio.png": "/supun-akalanka/static/media/portfolio.1062d882e9c6cdc16088.png",
     "static/media/profile.jpg": "/supun-akalanka/static/media/profile.e936d48586718514b1bf.jpg",
@@ -15,11 +15,11 @@
     "static/media/PMS.png": "/supun-akalanka/static/media/PMS.a4afcdfad6b4e862f5b2.png",
     "index.html": "/supun-akalanka/index.html",
     "main.dff182c0.css.map": "/supun-akalanka/static/css/main.dff182c0.css.map",
-    "main.623a2908.js.map": "/supun-akalanka/static/js/main.623a2908.js.map",
+    "main.a841a7bc.js.map": "/supun-akalanka/static/js/main.a841a7bc.js.map",
     "453.1407b060.chunk.js.map": "/supun-akalanka/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dff182c0.css",
-    "static/js/main.623a2908.js"
+    "static/js/main.a841a7bc.js"
   ]
 }
