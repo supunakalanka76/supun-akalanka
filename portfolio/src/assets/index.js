@@ -9,6 +9,7 @@ import contact from './images/contact/contact.jpg';
 import cv from './pdfs/cv.pdf';
 import portfolio from './images/projects/portfolio.png';
 import todo from './images/projects/todo.png';
+import chatbot from './images/projects/chatbot.png';
 
 export {
     profile,
@@ -22,4 +23,5 @@ export {
     cv,
     portfolio,
     todo,
+    chatbot,
  };

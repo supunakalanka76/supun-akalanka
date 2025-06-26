@@ -1,7 +1,7 @@
 import React from 'react'
 import Title from '../layouts/Title'
 import ProjectCard from './ProjectCard'
-import {event, pms, pos, portfolio, todo} from '../../assets/index'
+import {event, pos, portfolio, chatbot} from '../../assets/index'
 
 function Projects() {
   return (
@@ -25,9 +25,9 @@ function Projects() {
           src={portfolio}
         />
         <ProjectCard 
-          title='Payroll System'
-          des='A Payroll System is software that automates the calculation of employee salaries, deductions, and tax withholdings, ensuring accurate and timely payments. It simplifies payroll management and helps organizations maintain compliance with tax regulations.'
-          src={pms}
+          title='IslandWhiz | AI Chatbot for Tourism in Sri Lanka'
+          des='IslandWhiz is an AI-powered chatbot designed to assist tourists visiting Sri Lanka by providing real-time travel information, personalized recommendations, and cultural insights. Built using Rasa, Flask, and NLP, it aims to enhance travel experiences with intelligent conversation.'
+          src={chatbot}
         />
         <ProjectCard 
           title='Gatherly | The Event Reminder'
@@ -35,11 +35,6 @@ function Projects() {
           src={event}
         />
 
-        <ProjectCard
-          title='Efficio | The ToDo App'
-          des='Efficio is a task management app designed to help users organize, prioritize, and track their daily tasks. It offers features like due dates, reminders, subtasks, and progress tracking, making it easy to stay productive and meet deadlines efficiently.'
-          src={todo}
-        />
         {/* <ProjectCard />
         <ProjectCard /> */}
       </div>

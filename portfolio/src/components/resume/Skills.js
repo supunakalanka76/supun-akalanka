@@ -57,8 +57,8 @@ function Skills() {
                     initial={{x: "-100%", opacity: 0}}
                     animate={{x: 0, opacity: 1}}
                     transition={{duration: 0.5, delay: 0.5}}
-                    className='w-[45%] h-full bg-gradient-to-r from-cyan-100 via-cyan-300 to-cyan-500 rounded-md relative'>
-                        <span className='absolute -top-8 right-0'>45%</span>
+                    className='w-[50%] h-full bg-gradient-to-r from-cyan-100 via-cyan-300 to-cyan-500 rounded-md relative'>
+                        <span className='absolute -top-8 right-0'>50%</span>
                     </motion.span>
                 </span>
             </div>
@@ -69,8 +69,8 @@ function Skills() {
                     initial={{x: "-100%", opacity: 0}}
                     animate={{x: 0, opacity: 1}}
                     transition={{duration: 0.5, delay: 0.5}}
-                    className='w-[40%] h-full bg-gradient-to-r from-cyan-100 via-cyan-300 to-cyan-500 rounded-md relative'>
-                        <span className='absolute -top-8 right-0'>40%</span>
+                    className='w-[50%] h-full bg-gradient-to-r from-cyan-100 via-cyan-300 to-cyan-500 rounded-md relative'>
+                        <span className='absolute -top-8 right-0'>50%</span>
                     </motion.span>
                 </span>
             </div>
