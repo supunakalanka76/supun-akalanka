@@ -10,6 +10,7 @@ import cv from './pdfs/cv.pdf';
 import portfolio from './images/projects/portfolio.png';
 import todo from './images/projects/todo.png';
 import chatbot from './images/projects/chatbot.png';
+import eshift from './images/projects/eshift.png';
 
 export {
     profile,
@@ -24,4 +25,5 @@ export {
     portfolio,
     todo,
     chatbot,
+    eshift,
  };
